@@ -1,0 +1,43 @@
+
+/* .text_area{
+    margin-top: 10px;
+}
+.text_area >input,label{
+    display: block;
+}
+textarea{
+width: 600px;
+height: 300px;
+}
+.button_container{
+    margin-top: 20px;
+   
+} */
+/* .form_grp{
+    display: flex;
+    flex-direction: column;
+} */
+.text_area >input,label{
+    display: block;
+}
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+   
+    border-radius: 4px;
+    resize: vertical;
+  }
+  textarea{
+    width: 40vw;
+    height: 20vw;
+    margin-top: 6px;
+  }
+  .button_container{
+      display: flex;
+   
+      margin: 10px;
+  }
+  .cancelbutton{
+      margin-right: 5px;
+    }
+  

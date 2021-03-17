@@ -1,0 +1,18 @@
+.delete:hover{
+    cursor: pointer;
+}
+.edit_button:hover{
+    cursor: pointer;
+}
+.blog_list{
+    text-align: center;
+}
+.blogs_list{
+    border: 1px solid lightgray;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+.update_button{
+    margin-left: 10px !important;
+}
